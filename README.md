@@ -3,10 +3,13 @@ Estudante de Ciência da Computação · Estagiário em Dev Front-end · Salvado
 Estou no 5º semestre de CC na Unijorge, focado em desenvolvimento Front-end e análise de dados. Apaixonado por transformar lógica em interfaces funcionais e dados em decisões.
 
 🛠️ Tecnologias
+
 Front-end
 
 
+
 Back-end & Geral
+
 
 
 Dados & BI
