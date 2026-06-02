@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá, sou Cauan Augusto 👋
+Estudante de Ciência da Computação · Estagiário em Dev Front-end · Salvador, BA
+Estou no 5º semestre de CC na Unijorge, focado em desenvolvimento Front-end e análise de dados. Apaixonado por transformar lógica em interfaces funcionais e dados em decisões.
 
-<!--
-**Angel0fTheNight/Angel0fTheNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias
+Front-end
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-end & Geral
+
+
+Dados & BI
+
+🚀 Projetos em Destaque
+🛒 Lojinha com Ranking de Clientes
+Sistema desktop de gestão comercial com análise de segmentação de clientes via Curva ABC.Java Java Swing Maven Gson JSON
+☕ Sistema de Pedidos — Sorveteria
+API REST para gerenciamento de pedidos construída com Spring Boot.Java Spring Boot REST API
+👾 Pac-Man
+Jogo completo com múltiplos mapas, IA de inimigo, sistema de fases e ranking persistente (Top 5).Python Pygame JSON
+
+📊 GitHub Stats
